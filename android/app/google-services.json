@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638072013262",
+    "project_id": "msgapp-9e2da",
+    "storage_bucket": "msgapp-9e2da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638072013262:android:58dbb42a4ba6d02619ab9f",
+        "android_client_info": {
+          "package_name": "com.example.msg_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638072013262-dfga04b0qb056qgt40j5sl8nanhmgo5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDohjBX9N3rEgi8jGachVjdllRTDoa_6DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638072013262-dfga04b0qb056qgt40j5sl8nanhmgo5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
